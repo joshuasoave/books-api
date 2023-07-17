@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 var bodyParser = require("body-parser");
+const serverless = require("serverless-http");
 
 require("dotenv").config();
 const PORT = process.env.REACT_APP_PORT || 5555;
@@ -31,4 +32,4 @@ app.use((req, res, next) => {
 
 app.use("/books", bookController);
 
-export const handler = serverless(app);
+module.exports.handler = serverless(app);
