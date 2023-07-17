@@ -31,6 +31,4 @@ app.use((req, res, next) => {
 
 app.use("/books", bookController);
 
-app.listen(PORT, () => {
-  console.log("listening on ", PORT);
-});
+export const handler = serverless(app);
