@@ -1,7 +1,7 @@
 # Books Api
 
 ## Introduction
-Welcome to the Books API. This API was specifically developed to support the Bestselling Books app, which showcases New York Times bestselling book data. The primary purpose of this API is to provide access to the top 10 fiction hardcover bestsellers from the New York Times. However, it doesn't stop there; this project is an ongoing effort to enhance the functionality and user experience of the app continuously.
+Welcome to the Books API. This API was specifically developed to support the [Bestselling Books](https://github.com/joshuasoave/nyt-bestsellers) app, which showcases New York Times bestselling book data. The primary purpose of this API is to provide access to the top 10 fiction hardcover bestsellers from the New York Times. However, it doesn't stop there; this project is an ongoing effort to enhance the functionality and user experience of the app continuously.
 
 ## Purpose and Vision
 The core vision of the Books API is to facilitate seamless integration with the Bestselling Books app, ensuring users have access to the most up-to-date and accurate information on the top-selling fiction hardcover books. By leveraging the New York Times API, the Books API acts as a bridge between the user and the vast collection of bestselling books.
