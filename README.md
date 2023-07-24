@@ -1,7 +1,7 @@
 # Books Api
 
 ## Introduction
-Welcome to the Books API. This API was specifically developed to support the [Bestselling Books](https://github.com/joshuasoave/nyt-bestsellers) app, which showcases New York Times bestselling book data. The primary purpose of this API is to provide access to the top 10 fiction hardcover bestsellers from the New York Times. However, it doesn't stop there; this project is an ongoing effort to enhance the functionality and user experience of the app continuously.
+Welcome to the Books API. This API was specifically developed to support the [Bestselling Books](https://github.com/joshuasoave/nyt-bestsellers) app, which showcases New York Times bestselling book data. The primary purpose of this API is to provide access to the top fiction hardcover bestsellers from the New York Times. However, it doesn't stop there; this project is an ongoing effort to enhance the functionality and user experience of the app continuously.
 
 ## Purpose and Vision
 The core vision of the Books API is to facilitate seamless integration with the Bestselling Books app, ensuring users have access to the most up-to-date and accurate information on the top-selling fiction hardcover books. By leveraging the New York Times API, the Books API acts as a bridge between the user and the vast collection of bestselling books.
@@ -23,7 +23,7 @@ The Books API is built using the popular and efficient Express framework, which 
 Currently, the Books API provides the following endpoint:
 
 ### GET /books/currentFiction
-This endpoint is responsible for retrieving the top 10 fiction hardcover bestselling books from the New York Times API. When accessed through the Bestselling Books app, it will return the latest results from the New York Times API.
+This endpoint is responsible for retrieving the top fiction hardcover bestselling books from the New York Times API. When accessed through the Bestselling Books app, it will return the latest results from the New York Times API.
 
 <img width="708" alt="Screen Shot 2023-07-23 at 7 54 01 PM" src="https://github.com/joshuasoave/books-api/assets/62475382/9d23e6d5-bfc5-47a5-9679-17c135653d79">
 
