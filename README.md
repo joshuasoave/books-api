@@ -10,7 +10,7 @@ The core vision of the Books API is to facilitate seamless integration with the 
 At present, the Books API predominantly offers a GET route, which enables the retrieval of valuable data from the New York Times bestselling books API. This endpoint, specifically accessed through the /books/currentFiction route in the Bestselling Books app, allows users to view the top 10 fiction hardcover bestsellers.
 
 ## Planned Enhancements
-As the developer of this app, I'm dedicated to consistently improving the functionality of the Books API to provide users with an exceptional experience. In the upcoming update, the following enhancements are planned:
+I'm dedicated to consistently improving the functionality of the Books API to provide users with an exceptional experience. In the upcoming update, the following enhancements are planned:
 
 - User Accounts: A comprehensive user management system will be integrated into the API, enabling users to create accounts, log in, and manage their profiles.
 - Wishlist Functionality: With the user accounts in place, a create, update, and delete route will be introduced to enable users to save their favorite books to a personalized wishlist.
